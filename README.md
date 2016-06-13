@@ -1,5 +1,5 @@
 # csvToTab
-Originally a project by Alex Tweedley to improve Richard's code, we eventually put it in the community...
+Originally a project by Alex Tweedly to improve Richard's code, we eventually put it in the community...
 
 `get CSVToTab (pData {,pColDelim})`  
 • pData is the csv-encoded data  
